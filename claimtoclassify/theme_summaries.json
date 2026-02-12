@@ -1,0 +1,64 @@
+{
+  "Energy & Renewables": {
+    "claim_count": 24,
+    "claim_density_percent": 14.46,
+    "top_number_claims": [
+      "We have adopted ISO 50001 Energy Management System (EMS) across our campuses, with three campuses (Kodathi, Chennai, and Sarjapur 2) receiving certifications in August 2022, covering 35% of our total operational office space.",
+      "GRI 302-4, 302-5Energy Efficiency\nOur transition to renewable energy over the years has enabled us to move steadily towards our target to decarbonize our operations.",
+      "This includes 586 trillion Joules of purchased renewable electricity and 10 trillion Joules self-generated through solar PV, totaling approximately 754 trillion Joules of energy.",
+      "We have considered DEFRA 2024 version 1.1 and CEA conversion factors to calculate our energy consumption.",
+      "Notably, around 85% of our total global electricity (including all Indian and global sites) usage is concentrated in India, where our large operational centers are located."
+    ]
+  },
+  "Other Environmental": {
+    "claim_count": 27,
+    "claim_density_percent": 16.27,
+    "top_number_claims": [
+      "During the financial year, the refrigerants used by our organization included R-134A, R-22, R-32, R-404A, R-407A, R-407B, R-407C, and R-410A.",
+      "This year, 89% of our facilities underwent assessment and have received ISO 14001 and ISO 45001 certification.",
+      "In FY25, we purchased around 116 trillion Joules of grid power and consumed another 40 trillion Joules of diesel-generated backup power.",
+      "For categories where 2024 factors are not available, we have referred to DEFRA 2021 and DEFRA 2017, along with other relevant and reliable sources.",
+      "Commuting time rose from 7% pre-pandemic to 15% in 2023* , driven by factors like metro construction and traffic congestion."
+    ]
+  },
+  "Climate Change & Net Zero": {
+    "claim_count": 2,
+    "claim_density_percent": 1.2,
+    "top_number_claims": [
+      "To assess the climate impact of these substances, \nwe evaluated their Ozone Depletion Potential (ODP), which indicates the extent to which a substance can degrade the ozone layer compared to CFC-11."
+    ]
+  },
+  "GHG Emissions": {
+    "claim_count": 47,
+    "claim_density_percent": 28.31,
+    "top_number_claims": [
+      "In FY25, our total GHG emissions amounted to approximately 219,683 tCO\n2e, \nout of which Scope 3 emissions accounted for around 86%, primarily driven by value chain activities.",
+      "Today, Wipro is powered by 84% purchased renewable electricity, helping reduce our contribution to atmospheric GHG emissions by 120,506 tCO\n2e and \navoid the potential addition of equivalent fossil-fuel capacity to the power grid.",
+      "Our Scope 1 emissions include carbon dioxide (CO\n2) methane \n(CH4), nitrous oxide (N2O) and Hydrofluorocarbons \n(HFCs).",
+      "At Wipro, commute-related emissions surged, \naccounting for 40% of our Scope 3 footprint in FY25—a threefold increase from FY24.",
+      "Emissions intensity encompasses all sources of GHG emissions (Scope 1, 2, and 3) at the organizational level, specifically for sites under direct operational control in India."
+    ]
+  },
+  "Water & Effluents": {
+    "claim_count": 23,
+    "claim_density_percent": 13.86,
+    "top_number_claims": [
+      "GRI 303-2, 303-4\nAs per Wipro’s Water Policy , we ensure that \nno untreated wastewater is discharged into subsurface waters, surface waters, or sewers leading directly to rivers, oceans, lakes, wetlands, or groundwater.",
+      "*Since the TDS of water is less than 1,000mg/L, entire water \nwithdrawn is considered under freshwater category.Our freshwater resources are sourced from \nthird-party purchases and groundwater.",
+      "Our water sources are from proximate groundwater aquifers, municipal supply and private water tankers (Refer page 75).",
+      "In-situ groundwater constitutes approximately 1.24% of our total freshwater consumption across various cities in India.",
+      "Till date, we have procured around 22 megaliters of treated water."
+    ]
+  },
+  "Waste & Circularity": {
+    "claim_count": 43,
+    "claim_density_percent": 25.9,
+    "top_number_claims": [
+      "Wipro targets over 98% waste recycling \n(excluding C&D) by 2030 and has reached 97% as of 2025.",
+      "* Other waste including C&D is 9,725 tons **Total waste including C&D is 13,541 tons.",
+      "GRI 306-2, 306-3\nWipro employs a centralized digital platform to record and manage waste data across all operational sites.",
+      "In FY25, we generated 13,541 tons of waste \n(including C&D), reflecting an enormous increase from the previous year, primarily driven by a 4-fold surge in C&D waste.",
+      "Estimating that IT-related commercial construction accounts for 10–15% of total urban commercial development, then the IT sector could be responsible for 15–22 million tons of C&D waste per year."
+    ]
+  }
+}

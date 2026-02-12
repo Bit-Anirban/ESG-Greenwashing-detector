@@ -1,0 +1,47 @@
+{
+    "Hindustan Unilever Limited": {
+        "ESG_rating": "AAA (MSCI, Dec-2023)",
+        "CDP_score": "A- (CDP Climate Change 2023)",
+        "carbon_footprint": {
+            "scope1": "104,000 tCO2e",
+            "scope2": "1,000,000 tCO2e",
+            "scope3": "Not available",
+            "year": "2023"
+        },
+        "top3_commitments": [
+            "Net-zero emissions across value chain by 2039",
+            "100% plastic packaging recyclable/reusable by 2025",
+            "Water-positive operations by 2030"
+        ]
+    },
+    "Asian Paints Limited": {
+        "ESG_rating": "BBB (MSCI, Jun-2023)",
+        "CDP_score": "B (CDP Climate Change 2023)",
+        "carbon_footprint": {
+            "scope1": "46,823 tCO2e",
+            "scope2": "222,585 tCO2e (market-based)",
+            "scope3": "1,456,000 tCO2e",
+            "year": "FY2022-23"
+        },
+        "top3_commitments": [
+            "Achieve Net-Zero GHG emissions across operations (Scope 1 & 2) by FY 2028-29",
+            "Reduce specific water consumption by 50% from FY 2020-21 baseline by FY 2029-30",
+            "Increase renewable energy share to 50% of total electricity consumption by FY 2025-26"
+        ]
+    },
+    "Wipro": {
+        "ESG_rating": "BBB (MSCI, Jun-2023)",
+        "CDP_score": "A- (CDP Climate Change 2023)",
+        "carbon_footprint": {
+            "scope1": "25,933 tCO2e",
+            "scope2": "1,034,215 tCO2e (market-based)",
+            "scope3": "1,089,826 tCO2e",
+            "year": "FY 2022-23"
+        },
+        "top3_commitments": [
+            "Net-zero GHG emissions across all scopes by 2040",
+            "100% renewable electricity in all operations by 2030",
+            "Water-positive operations by 2030"
+        ]
+    }
+}

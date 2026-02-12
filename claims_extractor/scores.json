@@ -1,0 +1,14 @@
+{
+  "vague_words_score": {
+    "vague_terms_found": 64,
+    "total_words": 6907,
+    "vague_density": 0.00927,
+    "vague_words_score": 46
+  },
+  "difficulty_score": {
+    "flesch_reading_ease": 18.18,
+    "avg_sentence_length": 20.41,
+    "difficult_words": 1255,
+    "difficulty_to_read_score": 80
+  }
+}

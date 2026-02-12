@@ -1,0 +1,14 @@
+-> WE FOUND VAGUE_LIST & DIFFICULTY ALONG WITH CLAIMS IN CLAIMS_EXTRACTOR
+-> WE HAVE DATA OF COMPANIES THROUGH SCRAPPER.
+-> ASSERTIVENESS IS FOUND AND TYPE OF CLAIMS IN CLAIM SCORER
+-> CLASSIFY THE CLAIM IN CATEGORIES AND % IN CLAIMTOCLASSIFY
+-> ANALYZE - THE DATA IS ANALYZED (THE TOP-5 BY MODEL )
+
+LIST OF JSON:
+-claims.json : claims extracted from PDF
+-company_data.json : contains information about the company 
+-environmental_claim_analysis.json : claims.json -> classify claims (6 categories) -> json
+-theme_summaries.json : environmental_claim_analysis.json -> top5 (numeric) -> json
+-claims_with_scores.json : claims.json -> assertiveness + type of claim -> json
+-theme_summaries_with_scores.json : theme_summaries.json -> model evaluates claims -> json 
+

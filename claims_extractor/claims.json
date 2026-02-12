@@ -1,0 +1,666 @@
+[
+  {
+    "sentence": "Energy\nWipro consumes energy in various \nforms, such as fuel, electricity, heating, cooling, or steam.",
+    "confidence": 0.915
+  },
+  {
+    "sentence": "It is both self-generated and purchased from external sources, and it comes from renewable and non-renewable sources.",
+    "confidence": 0.928
+  },
+  {
+    "sentence": "Notably, around 85% of our total global electricity (including all Indian and global sites) usage is concentrated in India, where our large operational centers are located.",
+    "confidence": 0.957
+  },
+  {
+    "sentence": "This year, 89% of our facilities underwent assessment and have received ISO 14001 and ISO 45001 certification.",
+    "confidence": 0.959
+  },
+  {
+    "sentence": "The primary energy demands for our operations \ninclude air conditioning, lighting, and other electrical systems.",
+    "confidence": 0.898
+  },
+  {
+    "sentence": "We have a two-fold approach to achieve operational emission reduction from energy consumption - increasing energy efficiency of both our physical and digital infrastructure, and transitioning to clean energy.",
+    "confidence": 0.922
+  },
+  {
+    "sentence": "Each year, we increase the share of renewable energy in our overall energy footprint.",
+    "confidence": 0.962
+  },
+  {
+    "sentence": "In addition, we monitor the energy consumption \nacross our campuses through the Global Energy Command Centre (GECC).",
+    "confidence": 0.725
+  },
+  {
+    "sentence": "It integrates every energy-consuming system within Wipro facilities globally, connecting to individual IoT-enabled devices and sensors.",
+    "confidence": 0.852
+  },
+  {
+    "sentence": "Currently, approximately 17.33 million square feet across India are connected to the BMS, covering 90% of our total office space.",
+    "confidence": 0.954
+  },
+  {
+    "sentence": "We have adopted ISO 50001 Energy Management System (EMS) across our campuses, with three campuses (Kodathi, Chennai, and Sarjapur 2) receiving certifications in August 2022, covering 35% of our total operational office space.",
+    "confidence": 0.955
+  },
+  {
+    "sentence": "This year, we plan to extend the implementation of energy management systems to GDC and KDC sites.",
+    "confidence": 0.781
+  },
+  {
+    "sentence": "Our overall energy consumption is monitored \ncentrally at the Global Energy Command Centre (GECC), responsible for optimizing operational control and enhancing energy efficiency.Wipro targets 100% renewable energy by 2030 and currently meets 84% of its purchased electricity through renewable sources.",
+    "confidence": 0.956
+  },
+  {
+    "sentence": "Targets Vs Performance\nEnergy Management\nGRI 302-1, 302-284% 2025 Performance100% 2030 Target\nEnergy Consumption\nCurrently, 84% of the electricity purchased for our facilities under operational control comes from renewable sources, making it our primary energy source.",
+    "confidence": 0.961
+  },
+  {
+    "sentence": "This includes 586 trillion Joules of purchased renewable electricity and 10 trillion Joules self-generated through solar PV, totaling approximately 754 trillion Joules of energy.",
+    "confidence": 0.959
+  },
+  {
+    "sentence": "Our investment in Group Captive has enabled us to significantly increase our share of renewable energy.",
+    "confidence": 0.938
+  },
+  {
+    "sentence": "In FY25, we purchased around 116 trillion Joules of grid power and consumed another 40 trillion Joules of diesel-generated backup power.",
+    "confidence": 0.961
+  },
+  {
+    "sentence": "The following dashboard presents the distribution of our overall energy consumption for our owned and operated locations.",
+    "confidence": 0.866
+  },
+  {
+    "sentence": "We have considered DEFRA 2024 version 1.1 and CEA conversion factors to calculate our energy consumption.",
+    "confidence": 0.954
+  },
+  {
+    "sentence": "Our leased facilities, where we do not have direct control, consume an additional 129 million MJ of electricity (calculation is based on actual data of India and overseas leased sites).",
+    "confidence": 0.959
+  },
+  {
+    "sentence": "Type Source MWh Trillion \nJoules\nRenewable Purchased electricity162,915 586\nGenerated renewableSolar PV 2,842 10\nRenewable Biogas 0 0\nNon-renewablePurchased electricity - Grid32,209 116\nNon-renewablePNG 329 1.18\nNon-renewableDiesel 11,197 40.30\nTotal 209,492 754\nRefer to Annexures for the list of sites under operational control.",
+    "confidence": 0.959
+  },
+  {
+    "sentence": "Purchased \nElectricity from \nGridTotal Energy \nConsumption\nFY25PNG/LNG\nDiesel for \nelectricity\nRenewable Electricity - PurchasedSolar PV\n15.4%209,492\nMWh0.2%\n5.3%\n77.8%1.4%\nElectricity FuelEnergy Consumed by Source\n65\nStakeholders & Materiality Creating Shared Value Financial Performance Environment Standards & Assurance  Overview Governance\nEnergy Intensity\nEnergy intensity is calculated by considering all \nsources of energy at the organizational level for sites under direct operational control in India.",
+    "confidence": 0.951
+  },
+  {
+    "sentence": "Energy intensity has been calculated on the basis of built-up area, occupancy, and revenue.",
+    "confidence": 0.952
+  },
+  {
+    "sentence": "We consider the built-up area as the most appropriate intensity metric for energy.",
+    "confidence": 0.682
+  },
+  {
+    "sentence": "Total energy consumption from fuel and \nelectricity (renewable and non-renewable sources) has been used as the numerator.GRI 302-3\nWe are continuously striving to decouple our business growth from non-renewable energy consumption.Area \nIntensityOccupancy IntensityRevenue Intensity\n(kWh/sqm) (kWh/person/day) (MWh/Mn US $)90.57\n83.2188.30\n26.7223.5212.10\n16.9118.8219.93\nFY23 FY24 FY25\nEnergy Efficiency and Energy \nTransition\nOur commitment to decarbonization is based \nupon two principles \u2013 energy efficiency and energy transition.Recognizing that energy efficiency is the first step in reducing our energy footprint, all our new facilities are designed to optimize overall performance, focusing on both efficiency and user experience.",
+    "confidence": 0.963
+  },
+  {
+    "sentence": "With over 50 engineers, architects and climate scientists coming together at the design phase, all our new buildings take into account aspects such as building orientation, natural ventilation and innovative cooling technologies (like under-floor air cooling systems) to design buildings that are IGBC and LEED Platinum certified.",
+    "confidence": 0.739
+  },
+  {
+    "sentence": "The implementation of energy efficiency measures have resulted in an EPI (Energy Performance Index) of 65 units per square meter in our Kodathi campus at Bengaluru and Gopanapally campus in Hyderabad.",
+    "confidence": 0.947
+  },
+  {
+    "sentence": "GRI 302-4, 302-5Energy Efficiency\nOur transition to renewable energy over the years has enabled us to move steadily towards our target to decarbonize our operations.",
+    "confidence": 0.954
+  },
+  {
+    "sentence": "Our RE transition has been through instruments such as Green Tariff, Power Purchase Agreements (PPAs) and more recently, Group Captive.",
+    "confidence": 0.822
+  },
+  {
+    "sentence": "Today, Wipro is powered by 84% purchased renewable electricity, helping reduce our contribution to atmospheric GHG emissions by 120,506 tCO\n2e and \navoid the potential addition of equivalent fossil-fuel capacity to the power grid.",
+    "confidence": 0.961
+  },
+  {
+    "sentence": "This is calculated as the difference between the quantity of GHG emissions that would have been emitted had our total energy consumption been sourced only from conventional sources (143,922 tCO\n2e) and \nour current emissions from conventional energy sources (23,416 tCO\n2e).Renewable Energy Transition\nGRI 305-5\n66\nStakeholders & Materiality Creating Shared Value Financial Performance Environment Standards & Assurance  Overview Governance\n2030 Target 55%\n84% reduction in Scope 1 and 2 \nfrom 2017* baseline\n55% reduction in Scope 3 from 2020 baseline.*Reduction of 163,991 tCO2e (84%) from 195,453 tCO2e \nto 31,462 tCO2e \n**Reduction of 233,303 tCO2e (55%) from 421,527 tCO2e to \n188,224 tCO2e.",
+    "confidence": 0.96
+  },
+  {
+    "sentence": "*** Considering top three SBTi -approved categories: Reduction \nof 161,691 tCO2e (57%) from 281,213 tCO2e to 119,522 tCO2e.The base years for target setting are in \nalignment with the Science Based Targets initiative (SBTi) approved in 2021, making Wipro the first company in India and the seventh globally to receive approval.",
+    "confidence": 0.933
+  },
+  {
+    "sentence": "Wipro has a target to achieve Net-Zero on \nScope 1, Scope 2 and Scope 3 by 2040\nOur near-term GHG emissions targets includes:\nScope 3 emissionsScope 1 and 2 emissionsGHG \nEmissions\nAt Wipro, we are committed to \nestablishing a robust system for measuring and reporting performance metrics to set scientifically valid, traceable, and accountable goals.",
+    "confidence": 0.93
+  },
+  {
+    "sentence": "In FY25, our total GHG emissions amounted to approximately 219,683 tCO\n2e, \nout of which Scope 3 emissions accounted for around 86%, primarily driven by value chain activities.",
+    "confidence": 0.961
+  },
+  {
+    "sentence": "Targets Vs Performance\n84% 2025 Performance59% 2030 Target\n2025 Performance 55%**\n2025 Performance 57%***\n67\nStakeholders & Materiality Creating Shared Value Financial Performance Environment Standards & Assurance  Overview Governance\nScope 1 and 2 EmissionsThese account for just over 4% of our total GHG \nemissions, primarily originating from fuel use in backup generators, natural gas consumption, and refrigerant leakage at our facilities.",
+    "confidence": 0.959
+  },
+  {
+    "sentence": "Our Scope 1 emissions include carbon dioxide (CO\n2) methane \n(CH4), nitrous oxide (N2O) and Hydrofluorocarbons \n(HFCs).",
+    "confidence": 0.956
+  },
+  {
+    "sentence": "This year we did not generate biogenic CO\n2 emissions, as our operations do not involve \nbiomass combustion or other biogenic sources.",
+    "confidence": 0.96
+  },
+  {
+    "sentence": "This accounts for 11% of our total GHG \nemissions, mainly due to electricity consumption at facilities under our operational control.",
+    "confidence": 0.961
+  },
+  {
+    "sentence": "We are using a location-based method to calculate our Scope 2 emissions.We have made good progress toward our SBTi-approved targets from the 2017 baseline for Scope 1 and 2 emissions, achieving a reduction of 163,991 tCO\n2e (84%) through our efforts in energy \nefficiency and energy transition from 195,453 tCO\n2e (in 2017) to 31,462 tCO2e.",
+    "confidence": 0.961
+  },
+  {
+    "sentence": "This makes up about 86% of our total GHG emissions across our value chain, arising from various sources including upstream fuel and energy, employee commutes, business travel, purchased goods and services, upstream and downstream leased assets, and waste emissions.",
+    "confidence": 0.96
+  },
+  {
+    "sentence": "\u2022 Upstream fuel and energy emissions were \nassessed using the fuel-data method.",
+    "confidence": 0.959
+  },
+  {
+    "sentence": "\u2022 Employee commute emissions were calculated based on the travel distance data within and outside India using the average data method.",
+    "confidence": 0.95
+  },
+  {
+    "sentence": "For India location, actual data from three sites was utilized to extrapolate performance across other locations.",
+    "confidence": 0.858
+  },
+  {
+    "sentence": "\u2022 Business travel emissions for air travel were calculated using the ICAO methodology, and other emissions (Rail/Bus) were calculated using distance-based methods using suitable emission factors.",
+    "confidence": 0.944
+  },
+  {
+    "sentence": "Hotel stays and other Conveyance related emissions were calculated using specific methodology and latest emission factors from IEA (International Energy Agency), CEA version 19.0 (Central Electricity Authority of India), and Our World in Data, to name a few.",
+    "confidence": 0.944
+  },
+  {
+    "sentence": "\u2022 Purchased goods and services emissions were calculated using the spend-based method and EEIO factors used for general purchases, with cloud emissions being assessed using supplier-specific data.",
+    "confidence": 0.952
+  },
+  {
+    "sentence": "\u2022 Upstream and downstream leased assets emissions were calculated using the average data method, with intensity data being sourced from the IEA.Scope 1 Emissions:  \u2018Emissions within our \nOperational Control\u2019\nGRI 305-1\nScope 2 Emissions: \u2018Purchased Power, \nShared Responsibility\u2019\nGRI 305-2Scope 3 Emissions: \u2018Beyond our operational boundaries; within our responsibility\u2019\nGRI 305-3Our GHG emissions have been calculated in \naccordance with the GHG Protocol, primarily using emission factors from DEFRA 2024.",
+    "confidence": 0.946
+  },
+  {
+    "sentence": "For categories where 2024 factors are not available, we have referred to DEFRA 2021 and DEFRA 2017, along with other relevant and reliable sources.",
+    "confidence": 0.843
+  },
+  {
+    "sentence": "GHG emissions were calculated for sites with operational control.",
+    "confidence": 0.959
+  },
+  {
+    "sentence": "Any additional emission factors used for calculations are specified in the respective sections.",
+    "confidence": 0.712
+  },
+  {
+    "sentence": "As of FY25, our GHG emissions profile is detailed as follows:GHG Emissions Profile for FY25\nGRI 305-1, 305-2, 305-3, 305-5\nParameter Emissions (tCO2e)\nScope 1 (Break up of GHG by CO2, CH4, N2O and HFCs)\nCO22,847.03\nCH4 0.4\nN2O 35.1\nHFC/CFC 5,163.7\nTotal Scope 1 Emissions 8,046\nTotal Scope 2 Emission 23,416\n68\nStakeholders & Materiality Creating Shared Value Financial Performance Environment Standards & Assurance  Overview Governance\nUpstream Fuel and Energy 16,349\nEmployee Commute 72,858\nBusiness Travel 30,315\nPurchased Goods and Services 32,866\nUpstream Leased Assets 20,183\nDownstream Leased Assets 3,285\nWork from Home Emissions 12,310\nWaste Emissions 58\nTotal Scope 3 emission (in tCO2e) 188,224Scope 3 Emissions\nEmissions Intensity\nWe are committed to measuring our GHG \nemissions intensity year-on-year across revenue, employee count (occupancy), and floor area.",
+    "confidence": 0.952
+  },
+  {
+    "sentence": "Emissions intensity encompasses all sources of GHG emissions (Scope 1, 2, and 3) at the organizational level, specifically for sites under direct operational control in India.",
+    "confidence": 0.942
+  },
+  {
+    "sentence": "The most relevant intensity metric for GHG emissions are area and the number of employees.GRI 305-4\nArea \nIntensityOccupancy IntensityRevenue Intensity\n(tCO2e/sqm) (kgCO2e/person/day) (tCO2e/Mn US $)0.16\n0.09\n0.09\n48.22\n24.42\n12.69\n30.52\n19.54\n20.90\nFY23 FY24 FY25Other Air Emissions\nOur facilities depend on air conditioning and \ncooling systems that utilize refrigerants.",
+    "confidence": 0.961
+  },
+  {
+    "sentence": "During the financial year, the refrigerants used by our organization included R-134A, R-22, R-32, R-404A, R-407A, R-407B, R-407C, and R-410A.",
+    "confidence": 0.912
+  },
+  {
+    "sentence": "To assess the climate impact of these substances, \nwe evaluated their Ozone Depletion Potential (ODP), which indicates the extent to which a substance can degrade the ozone layer compared to CFC-11.",
+    "confidence": 0.858
+  },
+  {
+    "sentence": "Among the refrigerants used, only \u2018R-22\u2019 (which is a hydrochlorofluorocarbon (HCFC) is classified as an Ozone-Depleting Substance (ODS) with an ODP of approximately 0.05.",
+    "confidence": 0.929
+  },
+  {
+    "sentence": "All other refrigerants have zero ODP , signifying no contributrion to the ozone layer depletion.",
+    "confidence": 0.929
+  },
+  {
+    "sentence": "Emission associated with R-22 is 8.8 kgs.",
+    "confidence": 0.95
+  },
+  {
+    "sentence": "(Source: UNDP Document)\nPreventing refrigerant leaks and identifying low global warming potential (GWP) alternatives are crucial for reducing global emissions.",
+    "confidence": 0.864
+  },
+  {
+    "sentence": "Additionally, our diesel generator units, which \nprovide backup power, emit NOx, SOx, and particulate matter.",
+    "confidence": 0.946
+  },
+  {
+    "sentence": "Stack concentration is location-specific and depends on the capacity of diesel generators, flow rate, the number of hours used, and the gases emitted.",
+    "confidence": 0.899
+  },
+  {
+    "sentence": "These emissions are monitored monthly for ambient air quality checks to ensure they remain within the permissible limits set by the State Pollution Control Boards.GRI 305-6, 305-7\nEmissions from diesel generators \n(backup power)Metrics (in tons)\nNOx 25.74\nSOx 2.81\nParticulate matter (PM) 3.17\n69\nStakeholders & Materiality Creating Shared Value Financial Performance Environment Standards & Assurance  Overview Governance\nGHG Emissions Management\nIn 2021, Wipro was among the first seven \ncompanies globally to have their Science-Based Targets initiative (SBTi) targets ratified and approved.",
+    "confidence": 0.948
+  },
+  {
+    "sentence": "Addressing GHG emissions is a critical component \nof our sustainability strategy.",
+    "confidence": 0.762
+  },
+  {
+    "sentence": "Our approach to reducing Scope 1 and 2 GHG emissions has primarily focused on decarbonization\u2014reducing or eliminating greenhouse gases from our operations through transitioning to renewable energy and enhancing energy efficiency, as explained above.",
+    "confidence": 0.92
+  },
+  {
+    "sentence": "For Scope 3 emissions, our efforts have centered on enhancing the granularity of our measurements and establishing robust processes to mitigate GHG emissions.",
+    "confidence": 0.839
+  },
+  {
+    "sentence": "Once these programs reach a certain level of \nmaturity, the emissions reductions specifically from these programs can be quantified.",
+    "confidence": 0.918
+  },
+  {
+    "sentence": "The path ahead is to set year-on-year targets for GHG emissions reductions as these programs mature.",
+    "confidence": 0.917
+  },
+  {
+    "sentence": "Some of the programs we have initiated are \ndescribed below:\nTo effectively reduce GHG emissions in this \ncategory, we are actively investing in renewable energy sources and transitioning to energy-efficient technologies.",
+    "confidence": 0.869
+  },
+  {
+    "sentence": "As a result of these concerted efforts, we have achieved a 70% reduction in GHG emissions compared to the previous year.Upstream Fuel and Energy EmissionsWipro has been measuring emissions from business travel for several years.",
+    "confidence": 0.963
+  },
+  {
+    "sentence": "Business travel forms the third largest category of our Scope 3 emissions (accounting for around 16%).",
+    "confidence": 0.959
+  },
+  {
+    "sentence": "Over the last year, we have gained granular knowledge on sources of business travel emissions within the organization.",
+    "confidence": 0.938
+  },
+  {
+    "sentence": "In FY25, we achieved a 16% reduction in business \ntravel emissions primarily due to company travel restrictions.",
+    "confidence": 0.963
+  },
+  {
+    "sentence": "However, even as these restrictions get lifted, we anticipate measurable reductions due to the Sustainable Travel Policy.",
+    "confidence": 0.777
+  },
+  {
+    "sentence": "Business Travel\nA challenging aspect for any business, employee \ncommute is the largest contributor to our Scope 3 emissions accounting for around ~40% of our Scope 3 emissions.",
+    "confidence": 0.957
+  },
+  {
+    "sentence": "This is expected to increase in the coming years as employees return to the office.",
+    "confidence": 0.875
+  },
+  {
+    "sentence": "We have launched several initiatives to create awareness among employees as well as provide lower emission choices in order to achieve reductions in employee commute emissions.",
+    "confidence": 0.795
+  },
+  {
+    "sentence": "Some of these are mentioned in the box item.Employee Commute\n70\nStakeholders & Materiality Creating Shared Value Financial Performance Environment Standards & Assurance  Overview Governance\nAs hybrid work models gain traction post-\npandemic, employee commute has emerged as a volatile Scope 3 emissions category.",
+    "confidence": 0.702
+  },
+  {
+    "sentence": "Commuting time rose from 7% pre-pandemic to 15% in 2023* , driven by factors like metro construction and traffic congestion.",
+    "confidence": 0.962
+  },
+  {
+    "sentence": "The return to the office\u2014essential for collaboration and retention\u2014has intensified mobility challenges, with strained public transport pushing many backs to private vehicles and increasing emissions across the IT sector.",
+    "confidence": 0.848
+  },
+  {
+    "sentence": "At Wipro, commute-related emissions surged, \naccounting for 40% of our Scope 3 footprint in FY25\u2014a threefold increase from FY24.",
+    "confidence": 0.965
+  },
+  {
+    "sentence": "While work-from-home emissions declined, office-based work reversed some sustainability gains.",
+    "confidence": 0.956
+  },
+  {
+    "sentence": "On the upside, electric mobility is gaining ground.",
+    "confidence": 0.72
+  },
+  {
+    "sentence": "EV emits a fraction of CO\n2 depending \non the grid energy mix and have the potential to reduce commute emissions.",
+    "confidence": 0.954
+  },
+  {
+    "sentence": "However, charging infrastructure remains a hurdle.",
+    "confidence": 0.786
+  },
+  {
+    "sentence": "*Source: https:/ /moveinsync.comEmployee Commute: A Rebounding Challenge in the Hybrid Era \n To address this, Wipro is driving a three-pronged strategy: \n\u2022 Fleet Electrification: As the first major \nIndian company in the EV100 initiative, we aim for 100% EV fleet transition by 2030, with 100% deployment already achieved in Kochi.",
+    "confidence": 0.872
+  },
+  {
+    "sentence": "\u2022 EV-Ready Infrastructure: With employee fleets contributing over 25% of commute emissions, we are exploring investments in charging infrastructure and incentives to promote sustainable transport.",
+    "confidence": 0.96
+  },
+  {
+    "sentence": "Currently, we have shuttles running between our offices in Bengaluru to enable easy transport for employees.",
+    "confidence": 0.738
+  },
+  {
+    "sentence": "We\u2019ve also launched an employee commute survey to gather granular data and shape targeted policies\u2014helping us move the needle on low-carbon commuting.",
+    "confidence": 0.643
+  },
+  {
+    "sentence": "We regularly monitor upstream assets and fuel emissions, setting benchmarks and targets through energy audits and performance reviews, and are also focused on Purchased Goods and Services\nreducing waste generation and related emissions.",
+    "confidence": 0.761
+  },
+  {
+    "sentence": "Emissions Reduction\nAddressing greenhouse gas (GHG) emissions is a crucial aspect of our sustainability strategy.",
+    "confidence": 0.889
+  },
+  {
+    "sentence": "Our approach to reducing Scope 1 and 2 GHG emissions has primarily focused on decarbonization\u2014reducing or eliminating greenhouse gases from our operations by transitioning to renewable energy and enhancing energy efficiency.",
+    "confidence": 0.933
+  },
+  {
+    "sentence": "Given that around 86% of our GHG emissions \noriginate from Scope 3, mitigating these emissions is both challenging and essential for meeting our goals.",
+    "confidence": 0.959
+  },
+  {
+    "sentence": "Our FY25 Targets vs Performance is given \nbelow.",
+    "confidence": 0.842
+  },
+  {
+    "sentence": "Targets Vs Performance (Till FY25)\n60% 100% 2030 Target60% 2030 Target\nTargeting a 60% improvement in freshwater efficiency by 2030 (from 150 to 60 Lpcd), Wipro has already achieved a 50% improvement, bringing usage down to 75 Lpcd.Freshwater Efficiency\nWaste Water Treatment and Usage\n31%31%\n50% 2025 Performance\n100% 2025 PerformanceWastewater treatement Recycled water usage\n31% of total water requirement met \nfrom treated wastewater; 100% of wastewater treated\nZero Discharge of Untreated WastewaterZero discharge of untreated wastewater\nTo continue to treat 100% of all used \nwater as per the safe standards\nTo increase the utilization of treated \nwater to constitute 45% of total water use by 2030\nTo reduce the absolute consumption \nof freshwater* year-on-year by 3% in all operationally-controlled facilities\nMaintain Zero Liquid Discharge of \nuntreated wastewater across all owned facilities \n*Freshwater includes municipal, groundwater, \ntanker supply, and private water.Revised Water Targets from FY26 :\nWipro\u2019s integrated water management approach, \nincluding conservation, reuse of treated water and rainwater harvesting, has significantly minimized the usage of freshwater in our operations.",
+    "confidence": 0.948
+  },
+  {
+    "sentence": "The primary areas of water consumption comprise cafeterias, cooling through HVAC systems, toilets and landscaping.",
+    "confidence": 0.924
+  },
+  {
+    "sentence": "Our water sources are from proximate groundwater aquifers, municipal supply and private water tankers (Refer page 75).",
+    "confidence": 0.944
+  },
+  {
+    "sentence": "We collect Water Management\nGRI 303-1\n74\nStakeholders & Materiality Creating Shared Value Financial Performance Environment Standards & Assurance  Overview Governance\nAll sites except Mysore, Cochin, Vizag, and \nBhubaneswar are classified as water-stressed, based on Central Groundwater Board data identifying \u2018over-exploited\u2019 or \u2018critical\u2019 areas.",
+    "confidence": 0.662
+  },
+  {
+    "sentence": "In these regions, human water demand often exceeds supply, affecting both people and ecosystems.",
+    "confidence": 0.916
+  },
+  {
+    "sentence": "Our total water consumption is calculated as the difference between water withdrawn and discharged.",
+    "confidence": 0.951
+  },
+  {
+    "sentence": "*Since the TDS of water is less than 1,000mg/L, entire water \nwithdrawn is considered under freshwater category.Our freshwater resources are sourced from \nthird-party purchases and groundwater.",
+    "confidence": 0.958
+  },
+  {
+    "sentence": "Third-party water primarily includes municipal and private supplies, with the latter mainly derived from groundwater.",
+    "confidence": 0.939
+  },
+  {
+    "sentence": "Municipal water supplies are typically sourced from rivers or lakes.",
+    "confidence": 0.9
+  },
+  {
+    "sentence": "In-situ groundwater constitutes approximately 1.24% of our total freshwater consumption across various cities in India.",
+    "confidence": 0.953
+  },
+  {
+    "sentence": "Our water withdrawal activities have no direct material impact on water sources.GRI 303-5\nWater Withdrawal\nGRI 303-3Water consumption\n(in mega liters)All areas Areas with \nwater stress\nTotal water consumption1,307 893\nChange in water storage, if water storage is identified as having material water-related impactN/A N/A\nDescription Category Quantity (in megaliters)\nTotal water withdrawn from all areasSurface water 0\nGround water 16.34\nSea water 0\nProduced water 0\nThird-party water1,292.13\nTotal water withdrawn from water stressed areasSurface water 0\nGround water 14.53\nSea water 0\nProduced water 0\nThird-party water879\nTotal water withdrawn from each categoryFreshwater \n(\u22641,000 mg/L Total \nDissolved Solids)1,308\nOther water \n(\u2265 1,000 mg/L Total Dissolved Solids)0and analyze our water data through a centralized \ndigital system and conduct internal audits every quarter to assess our water-related impacts.",
+    "confidence": 0.947
+  },
+  {
+    "sentence": "Despite operating in such regions, our water-related impacts remain minimal due to the nature of our operations.",
+    "confidence": 0.889
+  },
+  {
+    "sentence": "Some of these plants are equipped with nanofiltration technology to produce high-quality water for our chillers.",
+    "confidence": 0.923
+  },
+  {
+    "sentence": "All water is treated and reused, with minimal discharge from two of our facilities.",
+    "confidence": 0.943
+  },
+  {
+    "sentence": "GRI 303-2, 303-4\nAs per Wipro\u2019s Water Policy , we ensure that \nno untreated wastewater is discharged into subsurface waters, surface waters, or sewers leading directly to rivers, oceans, lakes, wetlands, or groundwater.",
+    "confidence": 0.925
+  },
+  {
+    "sentence": "The treated water from our sewage treatment plants is rigorously tested and conforms to the parameters specified by the respective local pollution control boards.",
+    "confidence": 0.83
+  },
+  {
+    "sentence": "Till date, we have procured around 22 megaliters of treated water.",
+    "confidence": 0.955
+  },
+  {
+    "sentence": "Consequently, no priority substances of concern, such as industrial toxins or persistent organic pollutants, are released through our water discharge streams.",
+    "confidence": 0.924
+  },
+  {
+    "sentence": "However, we consider Total Dissolved Solids (TDS) and Biological Oxygen Demand (BOD) as key indicators of water quality and potential environmental impact.",
+    "confidence": 0.878
+  },
+  {
+    "sentence": "Water which gets discharged is treated after meeting the prescribed limits, and in many cases, is sent to municipal sewage treatment facilities.",
+    "confidence": 0.893
+  },
+  {
+    "sentence": "For the reporting period, Wipro recorded zero \nincidents of non-compliance with discharge limits related to water quality parameters.",
+    "confidence": 0.95
+  },
+  {
+    "sentence": "Water Discharge\nWater discharge All areas Areas with water stress\nWater discharge by source\nSurface water 0 0\nGroundwater 0 0\nSeawater 0 0\nThird-party water \n(total)\nThird party water sent for \nuse to other organizations0.94 0.94\nTotal water discharge\nSurface water + Ground \nwater + Seawater + Third-party water (total)0.94 0.94\nWater discharge by freshwater and other water\nFreshwater (\u22641,000 \nmg/L TDS)0.94 0.94\nOther water (\u22651,000 mg/L TDS)0 0Water Intensity\nTracking water intensity is essential for managing consumption effectively year after year, allowing for improved resource allocation.",
+    "confidence": 0.931
+  },
+  {
+    "sentence": "Since water consumption is primarily dependent on occupancy, that is the preferred intensity metric tracked internally.",
+    "confidence": 0.936
+  },
+  {
+    "sentence": "Occupancy \nIntensityRevenue IntensityArea  Intensity\n(Lit/person/day) (Mn Lit/Mn US $) (Kilo Lit/sqm)\n127.30\n119.5875.53\n79.7795.68124.340.430.430.55\nFY23 FY24 FY25\n76\nStakeholders & Materiality Creating Shared Value Financial Performance Environment Standards & Assurance  Overview Governance\nGeneration and Segregation\nMonitoring and Tracking\nReport, Reduce and Reuse\nRecycle and Repurpose\nDisposalWaste\nAt Wipro, we view waste not just as a \nbyproduct, but as a valuable resource and an opportunity to demonstrate our commitment to sustainable practices.",
+    "confidence": 0.939
+  },
+  {
+    "sentence": "To maximize our efforts in responsible waste management, we adhere to the following practices: \nTargets Vs Performance\nWipro targets 100% composting of organic \nwaste from business operations and has already achieved this using appropriate methods.",
+    "confidence": 0.746
+  },
+  {
+    "sentence": "Wipro targets over 98% waste recycling \n(excluding C&D) by 2030 and has reached 97% as of 2025.",
+    "confidence": 0.963
+  },
+  {
+    "sentence": "Wipro targets less than 2% of waste \n(excluding C&D) to go to landfills by 2030 and has achieved 1% as of 2025.Organic Waste Composting\nWaste Recycling\nLandfills2030 Target\n2030 Target2025 Performance\n2025 Performance100%\n>98%100%\n97%\n77\nStakeholders & Materiality Creating Shared Value Financial Performance Environment Standards & Assurance  Overview Governance\nNotes:\ni.",
+    "confidence": 0.945
+  },
+  {
+    "sentence": "* Other waste including C&D is 9,725 tons **Total waste including C&D is 13,541 tons.",
+    "confidence": 0.958
+  },
+  {
+    "sentence": "This year, C&D waste has increased substantially due to \ndemolition and redevelopment at the Mysore office location.",
+    "confidence": 0.924
+  },
+  {
+    "sentence": "E- waste generation is equal to disposal.Waste category Waste generated \n(in tons)\nE-waste 171\nBiomedical waste 4\nHazardous waste 188\nInorganic waste 275\nOrganic waste 2,830\nPackaging waste 250\nPlastic waste 97\n*Other waste (excluding \nC&D)837\n**Total waste generated (excluding C&D)4,653\nTo ensure responsible management of environmental impact, we employ a comprehensive data collection and monitoring process for waste-related data, using tools like digital platforms for online data entry, a centralized database streamlined tracking, continuous monitoring, and annual external audits for data validation.",
+    "confidence": 0.929
+  },
+  {
+    "sentence": "A dedicated team oversees site management and conducts regular inspections, allowing for the identification of deviations and timely corrective actions to address any non-compliance issues.Collection and Disposal\nGRI 306-1, 306-2, 306-3, 306-4, 306-5GRI 306-1, 306-2\nWipro\u2019s operations generate a variety of non-hazardous waste streams, with the significant contributors being Construction and Demolition (C&D) waste, followed by organic waste (including food scraps, garden trimmings, and branches), and other non-hazardous solid waste such as electronic items, metals, plastics, and paper.",
+    "confidence": 0.873
+  },
+  {
+    "sentence": "\u2022 Input: Materials used in infrastructure \ndevelopment, office maintenance materials, cafeteria consumables, paper, electronics, peripherals, and packaging.",
+    "confidence": 0.857
+  },
+  {
+    "sentence": "\u2022 Output: C&D debris, organic waste, paper, plastic, e-waste, and general solid waste.",
+    "confidence": 0.943
+  },
+  {
+    "sentence": "The waste is processed by certified third parties after a thorough assessment, making sure they are aligned to key legislative frameworks.",
+    "confidence": 0.747
+  },
+  {
+    "sentence": "GRI 306-2, 306-3\nWipro employs a centralized digital platform to record and manage waste data across all operational sites.",
+    "confidence": 0.906
+  },
+  {
+    "sentence": "Each site team is responsible for updating waste generation figures monthly, ensuring timely and accurate data capture.",
+    "confidence": 0.621
+  },
+  {
+    "sentence": "In FY25, we generated 13,541 tons of waste \n(including C&D), reflecting an enormous increase from the previous year, primarily driven by a 4-fold surge in C&D waste.",
+    "confidence": 0.96
+  },
+  {
+    "sentence": "The company maintains end-to-end visibility \nacross the entire waste treatment and disposal process.",
+    "confidence": 0.609
+  },
+  {
+    "sentence": "C&D waste is sent to landfill\nThe numbers reported in the table below are for off-site waste disposal.Wipro maintains a robust waste management system, ensuring responsible disposal and recycling practices.",
+    "confidence": 0.85
+  },
+  {
+    "sentence": "\u2022 ~70% of inorganic waste is efficiently recycled \nthrough approved partners.",
+    "confidence": 0.964
+  },
+  {
+    "sentence": "\u2022 Biomedical and hazardous waste is incinerated following established, safe and approved methods.",
+    "confidence": 0.891
+  },
+  {
+    "sentence": "\u2022 Electronic waste is handled through responsible end-of-life recycling with certified vendors.",
+    "confidence": 0.867
+  },
+  {
+    "sentence": "\u2022 More than 90% of our plastic and packaging waste gets recycled in suitable forms ensuring minimal landfill impact.",
+    "confidence": 0.964
+  },
+  {
+    "sentence": "For the reporting year, Wipro achieved a recycling rate of 97%, excluding C&D waste reinforcing its commitment to sustainability and circular economy principles.",
+    "confidence": 0.964
+  },
+  {
+    "sentence": "Wipro does not conduct any waste treatment \nor disposal onsite.",
+    "confidence": 0.884
+  },
+  {
+    "sentence": "All waste generated across Wipro\u2019s operational sites is disposed off through authorized third-party waste management service providers, ensuring compliance with environmental regulations and safe handling practices.",
+    "confidence": 0.902
+  },
+  {
+    "sentence": "Waste Management\nGRI 306-1, 306-2, 306-3, 306-4, 306-5\nParameters in tons \n(excluding C&D)% (excluding \nC&D )\nIncineration 79 1.60%\nLandfill 36 0.73%\nRecycle 4,833 97.61%\nOther methods for recovery3 0.06%\nWaste Diverted from Disposal (in tons) Waste Directed to Disposal (in tons)\nPreparation \nfor reuseRecycling Other recovery operationsIncineration (with energy recovery)Incineration (without energy recovery)Landfilling Other disposal operations\nHazardous waste0 225.37 0 0 2.43 0 0\nNon-hazardous waste277.44 4,607.89 0 0 76.98 8,646.48 0\nTotal waste \n(tons)277.44 4,833.28 0 0 79.4 8,646.48 0\nWe disposed 324 tons of waste in excess to what was generated,due to an onsite collection of generated waste.",
+    "confidence": 0.954
+  },
+  {
+    "sentence": "This was disposed off by the close of the financial year.",
+    "confidence": 0.673
+  },
+  {
+    "sentence": "Out of the total 4,833 tons of waste collected \nfor recycling, only 3 tons, mainly food scraps and garden trimmings were composted on-site and reused within Wipro\u2019s premises.",
+    "confidence": 0.96
+  },
+  {
+    "sentence": "The remaining waste was sent to authorized vendors for composting and other suitable recycling processes.Waste Disposal Methods\n79\nStakeholders & Materiality Creating Shared Value Financial Performance Environment Standards & Assurance  Overview Governance\nIndia\u2019s urban growth story is impressive\u2014but \nit comes with a hidden cost.",
+    "confidence": 0.736
+  },
+  {
+    "sentence": "According to a 2018 report by the Ministry of Housing and Urban Affairs (MoHUA), India\u2019s construction sector is projected to grow at a rate of 7-8% over the next 10 years and is likely to become the world\u2019s third largest by the middle of the next decade.",
+    "confidence": 0.944
+  },
+  {
+    "sentence": "Currently, it is estimated that Indian cities generate around 150 million tons of Construction & Demolition (C&D) waste per year.",
+    "confidence": 0.953
+  },
+  {
+    "sentence": "Zoning in on the IT and ITes sector, there has \nbeen a rapid growth of IT, ITes and Global Capability Centres (GCCs) in major IT hubs like Bengaluru, Hyderabad, Pune and Gurugram.",
+    "confidence": 0.797
+  },
+  {
+    "sentence": "Given that India ranks third globally in LEED-certified buildings, retrofitting of older IT campuses and commercial buildings are accelerating, contributing to C&D waste generation.",
+    "confidence": 0.95
+  },
+  {
+    "sentence": "Estimating that IT-related commercial construction accounts for 10\u201315% of total urban commercial development, then the IT sector could be responsible for 15\u201322 million tons of C&D waste per year.",
+    "confidence": 0.962
+  },
+  {
+    "sentence": "According to estimates made by the Centre for \nScience and Environment, India recycles only 1% of the C&D waste.",
+    "confidence": 0.961
+  },
+  {
+    "sentence": "The new C&D Waste Management Rules 2025, set to become effective in April 2026, mandate an Extended Producer Responsibility (EPR) for projects >20,000 sq.",
+    "confidence": 0.945
+  },
+  {
+    "sentence": "m, and a mandated sourcing of 5% of construction materials from recycled waste The Role of Construction and Demolition Waste in India\u2019s Circularity Story\nby 2027.",
+    "confidence": 0.961
+  },
+  {
+    "sentence": "This will increase to 25% by 2031.",
+    "confidence": 0.959
+  },
+  {
+    "sentence": "Today, recycling plants exist only in pockets that are able to handle limited quantities of waste.",
+    "confidence": 0.927
+  },
+  {
+    "sentence": "This reflects a systemic gap, where waste generators are faced with limited options for disposal.",
+    "confidence": 0.838
+  },
+  {
+    "sentence": "For example, last year, we partnered with PadCare to upcycle sanitary napkins across our campuses.",
+    "confidence": 0.789
+  },
+  {
+    "sentence": "Wipro\u2019s generation of C&D waste increased \nsignificantly in FY25 due to refurbishment projects, of which just 2% was recycled.",
+    "confidence": 0.963
+  },
+  {
+    "sentence": "This was primarily due to vendor limitations and the limited availability of recyclers in the cities where we operate.",
+    "confidence": 0.735
+  },
+  {
+    "sentence": "For example, the UK\u2019s use of recycled aggregates forms 25% of total aggregates, being the highest in Europe, creating a vibrant recycling industry that promoted innovation.",
+    "confidence": 0.943
+  },
+  {
+    "sentence": "Singapore recycles 98% of its construction waste.",
+    "confidence": 0.96
+  },
+  {
+    "sentence": "The problem of C&D \nwaste has been recognized.",
+    "confidence": 0.812
+  },
+  {
+    "sentence": "Wipro\u2019s target was to ensure that by 2025, more \nthan 98% of other categories of waste are recycled as per appropriate national standards with less than 2% reaching landfills (excluding construction and demolition waste), and 100% of organic waste generated from business operations being recycled.Waste Tracking Mechanism\nIn FY25, Wipro collaborated with PadCare to address the often-overlooked challenge of sanitary waste management in workplaces.",
+    "confidence": 0.945
+  },
+  {
+    "sentence": "As part of the program, 1,378 sanitary bins \nand 256 pad vending machines were installed across Wipro offices, ensuring safe and dignified menstrual hygiene solutions for women employees.",
+    "confidence": 0.94
+  },
+  {
+    "sentence": "Leveraging PadCare\u2019s proprietary closed-loop recycling technology, 3,802.99 kilograms of used sanitary waste Wipro and PadCare- Repurposing Menstrual ProductsWe have processed 100% of our organic waste - with 90% being composted, and the remaining 10% being sent for co-processing or recycling.",
+    "confidence": 0.964
+  },
+  {
+    "sentence": "To further strengthen waste reduction, Wipro \nemploys multiple strategies, such as minimizing single-use plastics, promoting paperless operations, and adopting energy-efficient technologies.",
+    "confidence": 0.82
+  },
+  {
+    "sentence": "were diverted from incineration and landfills.",
+    "confidence": 0.95
+  },
+  {
+    "sentence": "This waste was repurposed into functional recycled products such as notebooks, calendars, and affirmation cards\u2014contributing to Wipro\u2019s zero-waste objectives and reducing its environmental footprint.",
+    "confidence": 0.905
+  }
+]
