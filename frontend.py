@@ -1,3 +1,5 @@
+import pandas as pd
+
 import streamlit as st
 import tempfile
 import subprocess
@@ -235,16 +237,35 @@ if st.button("Process", type="primary"):
 
         with colB:
             st.markdown("#### 🌍 Carbon Footprint")
+
             carbon = selected_company.get("carbon_footprint", {})
-            st.write(f"Year: {carbon.get('year', 'N/A')}")
-            st.write(f"Scope 1: {carbon.get('scope1', 'N/A')}")
-            st.write(f"Scope 2: {carbon.get('scope2', 'N/A')}")
-            st.write(f"Scope 3: {carbon.get('scope3', 'N/A')}")
 
+            if carbon:
+                df_carbon = pd.DataFrame({
+                    "Metric": ["Year", "Scope 1", "Scope 2", "Scope 3"],
+                    "Value": [
+                        carbon.get("year", "N/A"),
+                        carbon.get("scope1", "N/A"),
+                        carbon.get("scope2", "N/A"),
+                        carbon.get("scope3", "N/A")
+                    ]
+                })
+
+                st.table(df_carbon)
+            else:
+                st.write("No carbon footprint data available.")
         st.markdown("#### 🎯 Top 3 ESG Commitments")
-        for promise in selected_company.get("top3_commitments", []):
-            st.write(f"- {promise}")
 
+        commitments = selected_company.get("top3_commitments", [])
+
+        if commitments:
+            df_commitments = pd.DataFrame({
+                "Commitment #": [f"{i+1}" for i in range(len(commitments))],
+                "Commitment": commitments
+            })
+            st.table(df_commitments)
+        else:
+            st.write("No commitments available.")
     else:
         st.warning(f"Company '{company_name}' not found in company_data.json")
 
@@ -290,3 +311,97 @@ if st.button("Process", type="primary"):
             - **Theme Insights**: Key takeaways and observations about each theme based on the claims made in the report. These insights can help identify strengths, weaknesses, and areas for improvement in the company's ESG reporting.
             """
         )
+
+
+# New Section added here:
+# ============================================================
+# 📊 COMPARATIVE ANALYSIS (CLEANED)
+# ============================================================
+st.subheader("📊 Comparative Company Analysis")
+
+try:
+    df = pd.read_csv("data/company_dataset.csv")
+
+    # -------------------------
+    # 🧠 Build Current Company Row (LIVE DATA)
+    # -------------------------
+    carbon = selected_company.get("carbon_footprint", {}) if selected_company else {}
+
+    # Helper function to strip "tCO2e" and commas from strings
+    def clean_emission_value(val):
+        if isinstance(val, str):
+            # Remove units and commas, then convert to float
+            val = val
+            # .replace("tCO2e", "").replace("(", "").replace(")", "").replace(",", "").strip()
+        try:
+            return float(val)
+        except:
+            return 0.0
+
+    scope1 = clean_emission_value(carbon.get("scope1", 0))
+    scope2 = clean_emission_value(carbon.get("scope2", 0))
+    scope3 = clean_emission_value(carbon.get("scope3", 0))
+
+    # (Risk and Theme logic remains same for background calculations)
+    msci_raw = selected_company.get("ESG_rating", "BBB") if selected_company else "BBB"
+    msci_map = {"AAA":1.0,"AA":0.9,"A":0.8,"BBB":0.7,"BB":0.6,"B":0.5,"CCC":0.4}
+    msci_score = msci_map.get(msci_raw, 0.6)
+    
+    theme_scores_live = {theme: data["theme_score"] for theme, data in theme_summaries.items()}
+    risk_live = ((vague["vague_words_score"]/100)*0.4 + avg_assertiveness*0.3 + (difficulty["difficulty_to_read_score"]/100)*0.2 + (1 - msci_score)*0.1)
+
+    # -------------------------
+    # 📊 METRICS DISPLAY
+    # -------------------------
+    st.markdown("### 🏆 Your Company vs Dataset")
+    col1, col2, col3 = st.columns(3)
+    col1.metric("Your Risk Score", f"{risk_live:.2f}")
+    col2.metric("Dataset Avg Risk", f"{df['Risk'].mean():.2f}")
+    
+    temp_df = df.copy()
+    temp_df.loc[len(temp_df)] = ["Your Company","-",0,0,0,scope1,scope2,scope3,msci_score,0,0,0,0,0,0,risk_live]
+    rank = temp_df["Risk"].rank().iloc[-1]
+    col3.metric("Estimated Rank", int(rank))
+
+    # --- RISK COMPARISON REMOVED PER REQUEST ---
+
+    # -------------------------
+    # 📊 Linguistic Comparison
+    # -------------------------
+    st.markdown("### 📊 Linguistic Features")
+    comp_df = pd.DataFrame({
+        "Metric": ["Vague", "Assertiveness", "Readability"],
+        "Your Company": [vague["vague_words_score"]/100, avg_assertiveness, difficulty["difficulty_to_read_score"]/100],
+        "Average": [df["Vague"].mean(), df["Assertiveness"].mean(), df["Readability"].mean()]
+    }).melt(id_vars="Metric", var_name="Group", value_name="Score")
+
+    st.bar_chart(comp_df, x="Metric", y="Score", color="Group", horizontal=True, stack=False)
+
+    # -------------------------
+    # 🌍 Emissions Comparison
+    # -------------------------
+    st.markdown("### 🌍 Emissions Comparison")
+    emissions_df = pd.DataFrame({
+        "Metric": ["Scope1", "Scope2", "Scope3"],
+        "Your Company": [scope1, scope2, scope3],
+        "Average": [df["Scope1"].mean(), df["Scope2"].mean(), df["Scope3"].mean()]
+    }).melt(id_vars="Metric", var_name="Group", value_name="tCO2e")
+
+    # Now that values are floats, the axis will look clean and numeric
+    st.bar_chart(emissions_df, x="Metric", y="tCO2e", color="Group", horizontal=True, stack=False)
+
+    # -------------------------
+    # 🎯 Theme Comparison
+    # -------------------------
+    st.markdown("### 🎯 Theme Comparison")
+    theme_keys = list(theme_scores_live.keys())
+    theme_df = pd.DataFrame({
+        "Theme": theme_keys,
+        "Your Company": [theme_scores_live[t] for t in theme_keys],
+        "Average": [df[t].mean() if t in df.columns else 0 for t in theme_keys]
+    }).melt(id_vars="Theme", var_name="Group", value_name="Score")
+
+    st.bar_chart(theme_df, x="Theme", y="Score", color="Group", horizontal=True, stack=False)
+
+except Exception as e:
+    st.error(f"Comparison error: {e}")

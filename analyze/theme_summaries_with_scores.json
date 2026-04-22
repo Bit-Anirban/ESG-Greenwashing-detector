@@ -9,10 +9,10 @@
       "We have considered DEFRA 2024 version 1.1 and CEA conversion factors to calculate our energy consumption.",
       "Notably, around 85% of our total global electricity (including all Indian and global sites) usage is concentrated in India, where our large operational centers are located."
     ],
-    "theme_score": 0.82,
+    "theme_score": 0.72,
     "theme_summary": [
-      "35% of office space ISO 50001-certified; 754 TJ total energy, ~78% from renewables.",
-      "India hosts 85% of global electricity use; absolute emissions impact unclear."
+      "35% of office space ISO-50001-certified; 754 TJ total renewable energy (77% purchased, 1% on-site PV).",
+      "India accounts for 85% of global electricity use; no quantified decarbon target or base-year emissions data disclosed."
     ]
   },
   "Other Environmental": {
@@ -25,10 +25,10 @@
       "For categories where 2024 factors are not available, we have referred to DEFRA 2021 and DEFRA 2017, along with other relevant and reliable sources.",
       "Commuting time rose from 7% pre-pandemic to 15% in 2023* , driven by factors like metro construction and traffic congestion."
     ],
-    "theme_score": 0.62,
+    "theme_score": 0.82,
     "theme_summary": [
-      "89% of facilities are ISO-14001/45001 certified; total energy use ≈156 TJ (72% grid, 28% diesel).",
-      "Commuting time doubled to 15%; no quantitative climate impact or scope 1/2/3 totals disclosed."
+      "89% of facilities now hold ISO 14001 & 45001 certs; energy mix totals ~156 TJ (116 TJ grid + 40 TJ diesel).",
+      "Commuting time doubled to 15% post-COVID; refrigerant list names high-GWP gases but omits quantities and phase-out plans."
     ]
   },
   "Climate Change & Net Zero": {
@@ -37,10 +37,10 @@
     "top_number_claims": [
       "To assess the climate impact of these substances, \nwe evaluated their Ozone Depletion Potential (ODP), which indicates the extent to which a substance can degrade the ozone layer compared to CFC-11."
     ],
-    "theme_score": 0.6,
+    "theme_score": 0.4,
     "theme_summary": [
-      "Claim solely references ODP; no quantitative ODP values, GWP, or emission data provided.",
-      "ESG relevance is narrow—addresses ozone protection but omits climate-change metrics investors typically require."
+      "Only introduces ODP and CFC-11 equivalence with no data or context on actual substances or impacts.",
+      "Falls short on G relevance; contains no numeric ODP values, target benchmarks, or company-specific emissions."
     ]
   },
   "GHG Emissions": {
@@ -53,10 +53,10 @@
       "At Wipro, commute-related emissions surged, \naccounting for 40% of our Scope 3 footprint in FY25—a threefold increase from FY24.",
       "Emissions intensity encompasses all sources of GHG emissions (Scope 1, 2, and 3) at the organizational level, specifically for sites under direct operational control in India."
     ],
-    "theme_score": 0.62,
+    "theme_score": 0.72,
     "theme_summary": [
-      "Scope 3 dominates with 86% of total FY25 emissions at ≈219 kt CO₂e, while commute alone jumped to 40% of Scope 3 vs 13% last year (3× rise).",
-      "64% of electricity is renewable, avoiding ≈121 kt CO₂e, yet clarity is harmed by partial scopes for the intensity factor and undefined third-party shares."
+      "FY25 GHG footprint ~220 kt CO₂e with 86% in Scope-3; commute share of Scope-3 jumped to 40% (3× vs FY24).",
+      "Grid mitigation: 84% purchased renewable power avoided ~121 kt CO₂e; Scope-1 mix includes CO₂, CH₄, N₂O and HFCs."
     ]
   },
   "Water & Effluents": {
@@ -69,10 +69,10 @@
       "In-situ groundwater constitutes approximately 1.24% of our total freshwater consumption across various cities in India.",
       "Till date, we have procured around 22 megaliters of treated water."
     ],
-    "theme_score": 0.85,
+    "theme_score": 0.35,
     "theme_summary": [
-      "1.24% of freshwater from on-site groundwater; 22 ML of recycled water procured to date.",
-      "Claims zero discharge of untreated effluent and full freshwater classification (<1,000 mg/L TDS)."
+      "Claims reference GRI 303-2/303-4 yet offer no quantitative discharge, recycling or consumption totals; only 22 ML reused water and 1.24 % groundwater share are stated.",
+      "Fresh-water sourcing mix, third-party volumes and year-on-year trends remain unstated, so the data set lacks the comprehensiveness and comparability expected from GRI 303 disclosures."
     ]
   },
   "Waste & Circularity": {
@@ -85,10 +85,10 @@
       "In FY25, we generated 13,541 tons of waste \n(including C&D), reflecting an enormous increase from the previous year, primarily driven by a 4-fold surge in C&D waste.",
       "Estimating that IT-related commercial construction accounts for 10–15% of total urban commercial development, then the IT sector could be responsible for 15–22 million tons of C&D waste per year."
     ],
-    "theme_score": 0.82,
+    "theme_score": 0.72,
     "theme_summary": [
-      "Wipro recycles 97% of non-C&D waste (target ≥98% by 2030) and centrally tracks all 13,541 t of FY25 waste vs 9,725 t non-C&D.",
-      "C&D alone quadrupled, implying that Wipro’s 3,816 t C&D waste could scale to a 15–22 Mt/a industry-wide footprint."
+      "Non-C&D recycling already 97% v 98% goal, but total waste jumped to 13,541 t (≈ +40%) because C&D quadrupled.",
+      "Quantitative data and GRI references are clear; claim mixes verified progress with a speculative industry-wide C&D extrapolation."
     ]
   }
 }
